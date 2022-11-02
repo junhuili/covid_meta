@@ -9,16 +9,14 @@ library (ape)
 library (ggplot2)
 
 # load in the taxonomic data with first column as row names
-m<-read.csv('merge_species_relative_meta.txt', header=T, sep='	', stringsAsFactors = FALSE, check.names = F,row.names = 1)
-#m<-read.csv('merge_species_absolute_meta.txt', header=T, sep='	', stringsAsFactors = FALSE, check.names = F,row.names = 1)
+m<-read.csv('../data/merge_species_rel_meta.txt', header=T, sep='	', stringsAsFactors = FALSE, check.names = F,row.names = 1)
 
 m[1:5,1:9]
 m$UNCLASSIFIED<-NULL
 dim(m)
 
 # load in the taxonomic data
-n <-read.delim2('merge_species_relative_meta.txt', head=T, sep='	', check.names = F, stringsAsFactors = FALSE)
-#n<-read.delim2('merge_species_absolute_meta.txt', header=T, sep='	', stringsAsFactors = FALSE, check.names = F)
+n <-read.delim2('../data/merge_species_rel_meta.txt', head=T, sep='	', check.names = F, stringsAsFactors = FALSE)
 
 n$UNCLASSIFIED<-NULL
 n[1:4,1:10]
@@ -38,11 +36,6 @@ m1[1:5,1:6]
 # Bray-curtis distance using relative abundance
 set.seed(123)
 NMDS<- metaMDS(m1, dist = "bray")
-
-# Aitchison distance using clr-transformed absolute abudance
-#set.seed(123)
-#NMDS<- metaMDS(m1, dist = "euclidean")
-
 
 m3<-scores(NMDS,display=c("sites"))
 head(m3)
@@ -157,12 +150,12 @@ library (ape)
 library (ggplot2)
 
 # load in the taxonomic data with first column as row names
-m <-read.table('species_relative_meta.txt', head=T, sep='	', check.names = F,row.name=1)
+m <-read.table('../data/species_relative_meta.txt', head=T, sep='	', check.names = F,row.name=1)
 m[1:5,1:7]
 m$UNCLASSIFIED<-NULL
 
 # load in the taxonomic data
-n <-read.delim2('species_relative_meta.txt', head=T, sep='	', check.names = F, stringsAsFactors = FALSE)
+n <-read.delim2('../data/species_relative_meta.txt', head=T, sep='	', check.names = F, stringsAsFactors = FALSE)
 n$UNCLASSIFIED<-NULL
 n[1:4,1:8]
 
