@@ -3,7 +3,7 @@ require(pROC)
 require(randomForest)
 require(ggplot2)
 
-df<-read.csv('merge_species_rel_meta.txt', header=T, sep='	', stringsAsFactors = FALSE, check.names = F,row.names = 1)
+df<-read.csv('../data/merge_species_rel_meta.txt', header=T, sep='	', stringsAsFactors = FALSE, check.names = F,row.names = 1)
 
 # subset biomarkers
 d<-subset(select=c('Condition','Cohort','Clostridium_innocuum','Enterococcus_faecalis','Enterococcus_faecium','Staphylococcus_epidermidis','Faecalibacterium_prausnitzii','Actinomyces_odontolyticus','Adlercreutzia_equolifaciens','Anaerostipes_hadrus','Bacteroides_eggerthii','Bacteroides_ovatus','Bacteroides_stercoris','Bacteroides_xylanisolvens','Barnesiella_intestinihominis','Bifidobacterium_adolescentis','Bifidobacterium_bifidum','Bifidobacterium_longum','Bifidobacterium_pseudocatenulatum','Blautia_wexlerae','Collinsella_aerofaciens','Coprococcus_catus','Coprococcus_comes','Coprococcus_eutactus','Dorea_formicigenerans','Dorea_longicatena','Eubacterium_eligens','Eubacterium_hallii','Eubacterium_ramulus','Eubacterium_rectale','Eubacterium_ventriosum','Fusicatenibacter_saccharivorans','Lachnospira_pectinoschiza','Paraprevotella_clara','Parasutterella_excrementihominis','Roseburia_faecis','Roseburia_hominis','Roseburia_intestinalis','Roseburia_inulinivorans','Ruminococcus_bromii','Ruminococcus_lactaris','Ruminococcus_torques'), df)
