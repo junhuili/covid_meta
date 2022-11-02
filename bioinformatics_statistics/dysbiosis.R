@@ -7,7 +7,7 @@ library(MASS)
 library(ggplot2)
 library(ggbreak)
 
-m<-read.csv('up/merge_species_rel_meta.txt', header=T, sep='	', stringsAsFactors = FALSE, check.names = F,row.names = 1)
+m<-read.csv('../data/merge_species_rel_meta.txt', header=T, sep='	', stringsAsFactors = FALSE, check.names = F,row.names = 1)
 m$UNCLASSIFIED<-NULL
 dim(m)
 
@@ -168,7 +168,7 @@ res2$estimate
 ################################################################################
 # Within-subject Bray-Curtis distance of gut microbiome in COVID-19 individuals
 ################################################################################
-a <-read.delim2('shift.txt', head=T, sep='	', check.names = F, stringsAsFactors = FALSE)
+a <-read.delim2('../data/shift.txt', head=T, sep='	', check.names = F, stringsAsFactors = FALSE)
 a1<-a[,c(2,10)]
 dim(unique(a1)) 
 
