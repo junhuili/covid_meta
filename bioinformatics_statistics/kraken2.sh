@@ -2,9 +2,7 @@
 # Building a custom kraken2 database 
 # https://ccb.jhu.edu/software/kraken/MANUAL.html#custom-databasess
 #######################################
-
-kraken2-build --download-taxonomy --db kraken_2022_02_18 --threads 20
-
+kraken2-build --download-taxonomy --db kraken_2022_02_18 --threads 30
 kraken2-build --download-library bacteria --db kraken_2022_02_18 --threads 30
 kraken2-build --download-library fungi --db kraken_2022_02_18 --threads 30
 kraken2-build --download-library archaea --db kraken_2022_02_18 --threads 30
@@ -15,8 +13,6 @@ kraken2-build --download-library protozoa --db kraken_2022_02_18 --threads 30
 ##############################
 # run kraken2
 ##############################
-
-#Run Kraken2 command and generate a report
 kraken2 --db kraken_2022_02_18 --paired sample.noHost_1.fq sample.noHost_2.fq --threads 30 --use-names --report kraken_report --report-zero-counts --output kraken.out
 
 
