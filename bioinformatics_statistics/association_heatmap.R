@@ -2,7 +2,7 @@
 ############################################################################################################
 # spearman correlation for each cohort with available severity and/or inflammatory biomarkers
 ############################################################################################################
-s <-read.table('species_relative.txt', head=T, sep='	', check.names = F,row.name=1)
+s <-read.table('../data/species_relative.txt', head=T, sep='	', check.names = F,row.name=1)
 # remove unused metadata
 s$Age<-s$Gender<-s$BMI<-s$Time<-s$Condition<-s$Severity<-NULL
 
