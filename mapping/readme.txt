@@ -1,1 +1,1 @@
-mapping file for CAZyme based on uniref90
+CAZyme mapping file based on uniref90 for humann
