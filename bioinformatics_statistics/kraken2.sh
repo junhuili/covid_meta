@@ -31,7 +31,7 @@ sed -e "s/\[//g;s/\]//g;s/'//g;s|\t|,|g" report/temp | sed 's@report/@@g' | sed 
 rm report/temp
 
 
-# Species rel
+# Species level
 python kraken-multiple-taxa.py -d report/ -r S -c 1 -o report/temp
 sed -e "s/\[//g;s/\]//g;s/'//g;s|\t|,|g" report/temp | sed 's@report/@@g' | sed 's/.tax.report//g' > species_rel.csv
 rm report/temp
