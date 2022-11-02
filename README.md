@@ -12,6 +12,8 @@ Shotgun function using HUMAnN 3 "System requirements, Installation guide, Demo, 
 
 Shotgun taxonomy using MetaPhlAn 3 "System requirements, Installation guide, Demo, Instructions for use": https://github.com/biobakery/MetaPhlAn 
 
+Shotgun taxonomy using Kraken2 "System requirements, Installation guide, Demo, Instructions for use": https://github.com/DerrickWood/kraken2/wiki/Manual
+
 
 R codes in bioinformatics_statistics (NMDS.R, PERMANOVA.R, dysbiosis.R, association_heatmap.R, RandomForest_COVIDSeverityIndex.R) used in the analysis. 
 R v3.6.2 "System requirements, Installation guide, Demo, Instructions for use": https://cran.r-project.org/manuals.html 
