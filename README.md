@@ -1,8 +1,9 @@
 # covid_meta
-Software and codes  used for COVID gut microbiome meta-analysis
+Software and codes used for COVID gut microbiome meta-analysis
 
 Bioinformatic anlysis 'bioinformatics.sh' in bioinformatics_statistics
 
+TrimGalore v0.6.7, HUMAnN 3, MetaPhlAn 3 and Kraken2 can be installed in conda; SPINGO v1.3 in Linux system.
 
 QC with TrimGalore v0.6.7 "1. System requirements": Cutadapt and FastQC; "2. Installation guide": https://github.com/FelixKrueger/TrimGalore; "3. Demo and 4. Instructions for use": https://github.com/FelixKrueger/TrimGalore/blob/master/Docs/Trim_Galore_User_Guide.md
 
