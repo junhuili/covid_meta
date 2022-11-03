@@ -27,7 +27,7 @@ d1[1:5,]
 4 ERR5445742 ERR5445746 0.9314631
 5 ERR5445742 ERR5445747 0.7911285"
 
-n<-read.csv('up/merge_species_rel_meta.txt', header=T, sep='	', stringsAsFactors = FALSE, check.names = F)
+n<-read.csv('../data/merge_species_rel_meta.txt', header=T, sep='	', stringsAsFactors = FALSE, check.names = F)
 n[1:2,1:4]
 "   Row.names Subject Condition Severity
 1 ERR5445742    M001     COVID     Mild
@@ -58,7 +58,7 @@ names(d2b)<-c('Row.names','Severity','c2','bray.rel')
 
 d3<-rbind(d2a,d2b)
 dim(d3)
-write.table(d3, file='bray.rel.txt', sep='	', row.names=F, quote=F)
+#write.table(d3, file='bray.rel.txt', sep='	', row.names=F, quote=F)
 ##########################################################################
 
 
@@ -172,6 +172,114 @@ res2$estimate
 ################################################################################
 # Within-subject Bray-Curtis distance of gut microbiome in COVID-19 individuals
 ################################################################################
+
+#########################################
+# calculation of Within-subject distance
+#########################################
+rm(list=ls())
+
+library(vegan)
+library(BiodiversityR)
+library(MASS)
+
+m<-read.csv('up/merge_species_rel_meta.txt', header=T, sep='	', stringsAsFactors = FALSE, check.names = F,row.names = 1)
+m$UNCLASSIFIED<-NULL
+m[1:2,1:9]
+
+m1 <- as.matrix(as.data.frame(lapply(m[,-c(1:8)], as.numeric)))
+d <- vegdist(m1, method = "bray")
+d1 <- data.frame(t(combn(rownames(m),2)), as.numeric(d))
+names(d1) <- c("Row.names", "c2", "bray.rel")
+d1[1:5,]
+
+n<-read.csv('up/merge_species_rel_meta.txt', header=T, sep='	', stringsAsFactors = FALSE, check.names = F)
+n[1:2,1:10]
+
+# subset metadata
+n1<-n[,1:9]
+
+# extract subjects with Longitudinal samples
+n2 <- n1[grepl('Yes', n$'Longitudinal'), ]
+dim(n2)
+unique(n2$Time)
+
+d1[1:5,]
+d2a<-merge(n2,d1,by=c('Row.names'),all.x=T)
+head(d2a)
+dim(d2a)
+
+head(n2)
+d2b<-merge(n2,d1,by.x=c('Row.names'),by.y=c('c2'),all.x=T)
+head(d2b)
+dim(d2b)
+
+library(plyr)
+d2b<-plyr::rename(d2b,c("Row.names.y"="c2"))
+
+d3<-rbind(d2a,d2b)
+dim(d3)
+head(d3)
+unique(d3$Longitudinal)
+
+write.table(d3, file='bray.rel.long.txt', sep='	', row.names=F, quote=F)
+
+# subjects from each cohort
+s<-unique(d3[,c(2,9)])
+
+# due to same subject name across cohorts, create "SubCoh" to extract pair-distance by individual cohorts
+d3$SubCoh<-paste(d3$Subject,d3$Cohort,sep="_")
+head(d3)
+
+#subjects with Longitudinal samples
+head(n2)
+n2$SubCoh<-paste(n2$Subject,n2$Cohort,sep="_")
+dim(n2)
+n2[1:3,c(1,10)]
+
+c1.1<-merge(n2[,c(1,10)],d3,by.x=c('Row.names'),by.y=c('c2'),all.x=T)
+head(c1.1)
+dim(c1.1)
+
+c1.2<-c1.1[c1.1$SubCoh.x==c1.1$SubCoh.y, ]
+dim(c1.2)
+head(c1.2)
+
+# merge T1 sample in the first column --> distance of all other time samples to 1st sample
+head(n2)
+dim(n2)
+n3 <- n2[grepl('T1', n2$'Time'), ]
+head(n3)
+dim(n3)
+
+c1.3<-merge(n2[,c(1,10)],c1.2,by.x=c('Row.names'),by.y=c('Row.names'),all.x=T)
+head(c1.3)
+dim(c1.3)
+c1.3$SubCoh.x<-c1.3$SubCoh.y<-NULL
+
+c1.3<-c1.3[complete.cases(c1.3[ ,4]),]
+dim(c1.3)
+
+c1.4 <- c1.3[grepl('T1', c1.3$'Time'), ]
+dim(c1.4)
+head(c1.4)
+c1.4$Day<-c1.4$Time<-NULL
+
+meta <-read.delim2('../data/metadata_shotgun.txt', head=T, sep='	', check.names = F, stringsAsFactors = FALSE)
+head(meta)
+meta<-subset(meta,select=c('Row.names','Day','Time'))
+
+# merge the specific Day and Time
+c1.5<-merge(c1.4,meta,by.x=c('Row.names'),by.y=c('Row.names'),all.x=T)
+head(c1.5)
+dim(c1.5)
+write.table(c1.5, file='../data/shift.txt', sep='	', row.names=F, quote=F)
+
+
+###############
+# visualization
+###############
+rm(list=ls())
+
 a <-read.delim2('../data/shift.txt', head=T, sep='	', check.names = F, stringsAsFactors = FALSE)
 a1<-a[,c(2,10)]
 dim(unique(a1)) 
@@ -277,5 +385,3 @@ p<-p + scale_x_continuous(expand = c(0.1,0.1), trans = log2_trans(), breaks = tr
 p
 #########################################################################################################
 #########################################################################################################
-
-
