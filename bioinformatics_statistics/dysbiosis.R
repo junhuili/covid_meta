@@ -75,6 +75,10 @@ head(df)
 dim(df)
 write.table(df, file='bray.rel.median.txt', sep='	', row.names=F, quote=F)
 
+library(plyr)
+mp <- ddply(df, "Severity", summarise, percent90=quantile(bray.rel, probs = c(0.9)))
+mp <- mp[grepl('Control', mp$'Severity'), ]
+percent90 <- mp[[2]]
 
 p<-ggplot(df, aes(x=bray.rel,color=Severity,fill=Severity)) #
 p<-p+ geom_density(alpha=0.1)
