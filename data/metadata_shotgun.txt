@@ -1,0 +1,1028 @@
+"#OEP002590: Severity indicates peak sverity; converted severity score while considering ""ECMO"" and ""Tracheal_Intubation"" according to WHO"									
+"#PRJNA650244: Day is proximate day as it was estimated from ""stool days since negative qPCR"""									
+#PRJNA660883: Severity indicates peak sverity									
+									
+Row.names	Subject	Condition	Severity	Score	Day	Time	Longitudinal	"City, Country"	Cohort
+J1	Control1	Control	Control	0	Control	T1	No	"Changsha, China"	OEP002590
+J3	Control2	Control	Control	0	Control	T1	No	"Changsha, China"	OEP002590
+J4	Control3	Control	Control	0	Control	T1	No	"Changsha, China"	OEP002590
+J5	Control4	Control	Control	0	Control	T1	No	"Changsha, China"	OEP002590
+J6	Control5	Control	Control	0	Control	T1	No	"Changsha, China"	OEP002590
+J7	Control6	Control	Control	0	Control	T1	No	"Changsha, China"	OEP002590
+J8	Control7	Control	Control	0	Control	T1	No	"Changsha, China"	OEP002590
+J9	Control8	Control	Control	0	Control	T1	No	"Changsha, China"	OEP002590
+w17	COV45	COVID	Mild	2	1	T1	No	"Shanghai, China"	OEP002590
+w18	COV46	COVID	Mild	2	1	T1	No	"Shanghai, China"	OEP002590
+w2	COV35	COVID	Mild	2	1	T1	No	"Shanghai, China"	OEP002590
+w32	COV53	COVID	Mild	2	1	T1	No	"Shanghai, China"	OEP002590
+w51	COV54	COVID	Mild	2	1	T1	No	"Shanghai, China"	OEP002590
+w1	COV34	COVID	Mild	2	2	T1	No	"Shanghai, China"	OEP002590
+w131	COV55	COVID	Mild	2	2	T1	No	"Shanghai, China"	OEP002590
+w14	COV42	COVID	Mild	2	2	T1	No	"Shanghai, China"	OEP002590
+w5	COV37	COVID	Mild	2	2	T1	No	"Shanghai, China"	OEP002590
+w6	COV38	COVID	Mild	2	2	T1	No	"Shanghai, China"	OEP002590
+w133	COV28	COVID	Mild	2	3	T1	No	"Shanghai, China"	OEP002590
+w136	COV32	COVID	Mild	2	3	T1	No	"Shanghai, China"	OEP002590
+w177	COV49	COVID	Mild	2	3	T1	No	"Shanghai, China"	OEP002590
+w22	COV47	COVID	Mild	2	3	T1	No	"Shanghai, China"	OEP002590
+w3	COV36	COVID	Mild	2	3	T1	No	"Shanghai, China"	OEP002590
+w45	COV27	COVID	Mild	2	3	T1	No	"Shanghai, China"	OEP002590
+w8	COV40	COVID	Mild	2	3	T1	No	"Shanghai, China"	OEP002590
+w9	COV41	COVID	Mild	2	3	T1	No	"Shanghai, China"	OEP002590
+w15	COV43	COVID	Mild	2	4	T1	No	"Shanghai, China"	OEP002590
+w29	COV51	COVID	Mild	2	4	T1	No	"Shanghai, China"	OEP002590
+w72	COV33	COVID	Mild	2	4	T1	No	"Shanghai, China"	OEP002590
+w89	COV19	COVID	Mild	2	4	T1	Yes	"Shanghai, China"	OEP002590
+w182	COV39	COVID	Mild	2	5	T1	No	"Shanghai, China"	OEP002590
+w84	COV31	COVID	Mild	2	5	T1	No	"Shanghai, China"	OEP002590
+w27	COV50	COVID	Mild	2	6	T1	No	"Shanghai, China"	OEP002590
+w24	COV48	COVID	Mild	2	7	T1	No	"Shanghai, China"	OEP002590
+w31	COV52	COVID	Mild	2	7	T1	No	"Shanghai, China"	OEP002590
+w128	COV25	COVID	Mild	2	8	T1	No	"Shanghai, China"	OEP002590
+w169	COV18	COVID	Mild	2	9	T1	Yes	"Shanghai, China"	OEP002590
+w122	COV17	COVID	Mild	2	11	T1	Yes	"Shanghai, China"	OEP002590
+w193	COV24	COVID	Mild	2	11	T1	No	"Shanghai, China"	OEP002590
+w46	COV29	COVID	Mild	2	11	T1	No	"Shanghai, China"	OEP002590
+w47	COV22	COVID	Mild	2	11	T1	No	"Shanghai, China"	OEP002590
+w96	COV23	COVID	Mild	2	11	T1	No	"Shanghai, China"	OEP002590
+w95	COV26	COVID	Mild	2	12	T1	No	"Shanghai, China"	OEP002590
+w16	COV44	COVID	Mild	2	13	T1	No	"Shanghai, China"	OEP002590
+w108	COV20	COVID	Mild	2	14	T1	No	"Shanghai, China"	OEP002590
+w65	COV21	COVID	Mild	2	14	T1	No	"Shanghai, China"	OEP002590
+w171	COV18	COVID	Mild	2	16	T2	Yes	"Shanghai, China"	OEP002590
+w123	COV17	COVID	Mild	2	17	T2	Yes	"Shanghai, China"	OEP002590
+w132	COV18	COVID	Mild	2	24	T3	Yes	"Shanghai, China"	OEP002590
+w166	COV30	COVID	Mild	2	25	T1	No	"Shanghai, China"	OEP002590
+w92	COV19	COVID	Mild	2	26	T2	Yes	"Shanghai, China"	OEP002590
+w93	COV19	COVID	Mild	2	28	T3	Yes	"Shanghai, China"	OEP002590
+w35	COV2	COVID	Severe	9	1	T1	Yes	"Shanghai, China"	OEP002590
+w48	COV61	COVID	Severe	6	1	T1	No	"Shanghai, China"	OEP002590
+w53	COV5	COVID	Severe	6	1	T1	Yes	"Shanghai, China"	OEP002590
+w97	COV1	COVID	Severe	9	1	T1	Yes	"Shanghai, China"	OEP002590
+w191	COV14	COVID	Severe	7	3	T1	Yes	"Shanghai, China"	OEP002590
+w36	COV2	COVID	Severe	9	3	T2	Yes	"Shanghai, China"	OEP002590
+w138	COV3	COVID	Severe	6	5	T1	Yes	"Shanghai, China"	OEP002590
+w143	COV9	COVID	Severe	9	6	T1	Yes	"Shanghai, China"	OEP002590
+w54	COV5	COVID	Severe	6	6	T2	Yes	"Shanghai, China"	OEP002590
+w164	COV3	COVID	Severe	6	9	T2	Yes	"Shanghai, China"	OEP002590
+w83	COV63	COVID	Severe	9	10	T1	No	"Shanghai, China"	OEP002590
+w187	COV14	COVID	Severe	7	11	T2	Yes	"Shanghai, China"	OEP002590
+w172	COV8	COVID	Severe	6	12	T1	Yes	"Shanghai, China"	OEP002590
+w194	COV14	COVID	Severe	7	13	T3	Yes	"Shanghai, China"	OEP002590
+w67	COV7	COVID	Severe	6	14	T1	Yes	"Shanghai, China"	OEP002590
+w129	COV6	COVID	Severe	6	15	T1	Yes	"Shanghai, China"	OEP002590
+w37	COV2	COVID	Severe	9	15	T3	Yes	"Shanghai, China"	OEP002590
+w174	COV12	COVID	Severe	9	16	T1	Yes	"Shanghai, China"	OEP002590
+w165	COV9	COVID	Severe	9	17	T2	Yes	"Shanghai, China"	OEP002590
+w170	COV4	COVID	Severe	9	17	T1	Yes	"Shanghai, China"	OEP002590
+w125	COV16	COVID	Severe	7	18	T1	Yes	"Shanghai, China"	OEP002590
+w111	COV13	COVID	Severe	7	19	T1	Yes	"Shanghai, China"	OEP002590
+w52	COV59	COVID	Severe	6	19	T1	No	"Shanghai, China"	OEP002590
+w57	COV5	COVID	Severe	6	19	T3	Yes	"Shanghai, China"	OEP002590
+w126	COV16	COVID	Severe	7	21	T2	Yes	"Shanghai, China"	OEP002590
+w142	COV8	COVID	Severe	6	21	T2	Yes	"Shanghai, China"	OEP002590
+w178	COV2	COVID	Severe	9	21	T4	Yes	"Shanghai, China"	OEP002590
+w180	COV7	COVID	Severe	6	21	T2	Yes	"Shanghai, China"	OEP002590
+w71	COV60	COVID	Severe	7	22	T1	No	"Shanghai, China"	OEP002590
+w140	COV3	COVID	Severe	6	23	T3	Yes	"Shanghai, China"	OEP002590
+w134	COV4	COVID	Severe	9	24	T2	Yes	"Shanghai, China"	OEP002590
+w144	COV9	COVID	Severe	9	24	T3	Yes	"Shanghai, China"	OEP002590
+w163	COV58	COVID	Severe	6	24	T1	No	"Shanghai, China"	OEP002590
+w44	COV57	COVID	Severe	6	24	T1	No	"Shanghai, China"	OEP002590
+w73	COV56	COVID	Severe	6	24	T1	No	"Shanghai, China"	OEP002590
+w61	COV15	COVID	Severe	7	26	T1	Yes	"Shanghai, China"	OEP002590
+w112	COV13	COVID	Severe	7	27	T2	Yes	"Shanghai, China"	OEP002590
+w130	COV6	COVID	Severe	6	28	T2	Yes	"Shanghai, China"	OEP002590
+w168	COV11	COVID	Severe	7	28	T1	Yes	"Shanghai, China"	OEP002590
+w62	COV15	COVID	Severe	7	29	T2	Yes	"Shanghai, China"	OEP002590
+w87	COV62	COVID	Severe	9	29	T1	No	"Shanghai, China"	OEP002590
+w162	COV11	COVID	Severe	7	33	T2	Yes	"Shanghai, China"	OEP002590
+w114	COV13	COVID	Severe	7	38	T3	Yes	"Shanghai, China"	OEP002590
+w173	COV12	COVID	Severe	9	39	T2	Yes	"Shanghai, China"	OEP002590
+w115	COV13	COVID	Severe	7	42	T4	Yes	"Shanghai, China"	OEP002590
+w116	COV13	COVID	Severe	7	48	T5	Yes	"Shanghai, China"	OEP002590
+w39	COV2	COVID	Severe	9	51	T5	Yes	"Shanghai, China"	OEP002590
+w100	COV1	COVID	Severe	9	52	T2	Yes	"Shanghai, China"	OEP002590
+w106	COV10	COVID	Severe	7	52	T1	Yes	"Shanghai, China"	OEP002590
+w148	COV12	COVID	Severe	9	59	T3	Yes	"Shanghai, China"	OEP002590
+w107	COV10	COVID	Severe	7	62	T2	Yes	"Shanghai, China"	OEP002590
+w101	COV1	COVID	Severe	9	66	T3	Yes	"Shanghai, China"	OEP002590
+w41	COV2	COVID	Severe	9	69	T6	Yes	"Shanghai, China"	OEP002590
+w102	COV1	COVID	Severe	9	72	T4	Yes	"Shanghai, China"	OEP002590
+ERR5445779	C010	Control	Control	0	Control	T1	No	"Beijing, China"	PRJEB43555
+ERR5445780	C011	Control	Control	0	Control	T1	No	"Beijing, China"	PRJEB43555
+ERR5445781	C012	Control	Control	0	Control	T1	No	"Beijing, China"	PRJEB43555
+ERR5445782	C013	Control	Control	0	Control	T1	No	"Beijing, China"	PRJEB43555
+ERR5445783	C014	Control	Control	0	Control	T1	No	"Beijing, China"	PRJEB43555
+ERR5445784	C015	Control	Control	0	Control	T1	No	"Beijing, China"	PRJEB43555
+ERR5445785	C016	Control	Control	0	Control	T1	No	"Beijing, China"	PRJEB43555
+ERR5445786	C017	Control	Control	0	Control	T1	No	"Beijing, China"	PRJEB43555
+ERR5445787	C018	Control	Control	0	Control	T1	No	"Beijing, China"	PRJEB43555
+ERR5445788	C019	Control	Control	0	Control	T1	No	"Beijing, China"	PRJEB43555
+ERR5445799	C004	Control	Control	0	Control	T1	No	"Changsha, China"	PRJEB43555
+ERR5445800	C005	Control	Control	0	Control	T1	No	"Changsha, China"	PRJEB43555
+ERR5445801	C006	Control	Control	0	Control	T1	No	"Changsha, China"	PRJEB43555
+ERR5445802	C007	Control	Control	0	Control	T1	No	"Changsha, China"	PRJEB43555
+ERR5445803	C008	Control	Control	0	Control	T1	No	"Changsha, China"	PRJEB43555
+ERR5445804	C009	Control	Control	0	Control	T1	No	"Changsha, China"	PRJEB43555
+ERR5445805	C001	Control	Control	0	Control	T1	No	"Changsha, China"	PRJEB43555
+ERR5445806	C002	Control	Control	0	Control	T1	No	"Changsha, China"	PRJEB43555
+ERR5445807	C003	Control	Control	0	Control	T1	No	"Changsha, China"	PRJEB43555
+ERR5445776	S006	COVID	Critical	8	4	T1	No	"Beijing, China"	PRJEB43555
+ERR5445777	S009	COVID	Critical	8	11	T1	No	"Beijing, China"	PRJEB43555
+ERR5445778	S010	COVID	Critical	8	11	T1	No	"Beijing, China"	PRJEB43555
+ERR5445749	M008	COVID	Mild	2	3	T1	No	"Beijing, China"	PRJEB43555
+ERR5445750	M009	COVID	Mild	2	3	T1	No	"Beijing, China"	PRJEB43555
+ERR5445742	M001	COVID	Mild	2	4	T1	No	"Beijing, China"	PRJEB43555
+ERR5445743	M002	COVID	Mild	2	4	T1	No	"Beijing, China"	PRJEB43555
+ERR5445745	M004	COVID	Mild	2	4	T1	No	"Beijing, China"	PRJEB43555
+ERR5445746	M005	COVID	Mild	2	4	T1	No	"Beijing, China"	PRJEB43555
+ERR5445744	M003	COVID	Mild	2	5	T1	No	"Beijing, China"	PRJEB43555
+ERR5445747	M006	COVID	Moderate	4	3	T1	No	"Beijing, China"	PRJEB43555
+ERR5445748	M007	COVID	Moderate	4	3	T1	No	"Beijing, China"	PRJEB43555
+ERR5445754	M013	COVID	Moderate	4	3	T1	No	"Beijing, China"	PRJEB43555
+ERR5445757	M016	COVID	Moderate	4	3	T1	No	"Beijing, China"	PRJEB43555
+ERR5445758	M017	COVID	Moderate	4	3	T1	No	"Beijing, China"	PRJEB43555
+ERR5445759	M018	COVID	Moderate	4	3	T1	No	"Beijing, China"	PRJEB43555
+ERR5445751	M010	COVID	Moderate	4	4	T1	No	"Beijing, China"	PRJEB43555
+ERR5445752	M011	COVID	Moderate	4	4	T1	No	"Beijing, China"	PRJEB43555
+ERR5445753	M012	COVID	Moderate	4	5	T1	No	"Beijing, China"	PRJEB43555
+ERR5445755	M014	COVID	Moderate	4	6	T1	No	"Beijing, China"	PRJEB43555
+ERR5445756	M015	COVID	Moderate	4	6	T1	No	"Beijing, China"	PRJEB43555
+ERR5445760	M019	COVID	Moderate	4	6	T1	No	"Beijing, China"	PRJEB43555
+ERR5445770	M030	COVID	Moderate	4	6	T1	No	"Beijing, China"	PRJEB43555
+ERR5445767	M027	COVID	Moderate	4	7	T1	No	"Beijing, China"	PRJEB43555
+ERR5445764	M023	COVID	Moderate	4	9	T1	No	"Beijing, China"	PRJEB43555
+ERR5445768	M028	COVID	Moderate	4	9	T1	No	"Beijing, China"	PRJEB43555
+ERR5445763	M022	COVID	Moderate	4	10	T1	No	"Beijing, China"	PRJEB43555
+ERR5445765	M024	COVID	Moderate	4	10	T1	No	"Beijing, China"	PRJEB43555
+ERR5445766	M025	COVID	Moderate	4	10	T1	No	"Beijing, China"	PRJEB43555
+ERR5445761	M020	COVID	Moderate	4	11	T1	No	"Beijing, China"	PRJEB43555
+ERR5445762	M021	COVID	Moderate	4	11	T1	No	"Beijing, China"	PRJEB43555
+ERR5445769	M029	COVID	Moderate	4	11	T1	No	"Beijing, China"	PRJEB43555
+ERR5445790	S012	COVID	Moderate	4	25	T1	No	"Changsha, China"	PRJEB43555
+ERR5445793	S015	COVID	Moderate	4	26	T1	No	"Changsha, China"	PRJEB43555
+ERR5445798	S020	COVID	Moderate	4	30	T1	No	"Changsha, China"	PRJEB43555
+ERR5445796	S018	COVID	Moderate	4	36	T1	No	"Changsha, China"	PRJEB43555
+ERR5445795	S017	COVID	Moderate	4	37	T1	No	"Changsha, China"	PRJEB43555
+ERR5445791	S013	COVID	Moderate	4	38	T1	No	"Changsha, China"	PRJEB43555
+ERR5445797	S019	COVID	Moderate	4	38	T1	No	"Changsha, China"	PRJEB43555
+ERR5445775	S005	COVID	Severe	6	21	T1	No	"Beijing, China"	PRJEB43555
+ERR5445792	S014	COVID	Severe	6	25	T1	No	"Changsha, China"	PRJEB43555
+ERR5445773	S003	COVID	Severe	6	27	T1	No	"Beijing, China"	PRJEB43555
+ERR5445774	S004	COVID	Severe	6	30	T1	No	"Beijing, China"	PRJEB43555
+ERR5445794	S016	COVID	Severe	6	34	T1	No	"Changsha, China"	PRJEB43555
+ERR5445772	S002	COVID	Severe	6	35	T1	No	"Beijing, China"	PRJEB43555
+ERR5445771	S001	COVID	Severe	6	37	T1	No	"Beijing, China"	PRJEB43555
+SRR12328893	C1	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA624223
+SRR12328894	C2	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA624223
+SRR12328895	C3	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA624223
+SRR12328897	C4	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA624223
+SRR12328898	C5	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA624223
+SRR12328899	C6	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA624223
+SRR12328900	C7	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA624223
+SRR12328901	C8	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA624223
+SRR12328902	C9	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA624223
+SRR12328903	C10	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA624223
+SRR12328904	C11	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA624223
+SRR12328905	C12	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA624223
+SRR12328906	C13	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA624223
+SRR12328908	C14	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA624223
+SRR12328909	C15	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA624223
+SRR12328916	CoV1	COVID	Critical	8	1	T1	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328923	CoV3	COVID	Critical	8	1	T1	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328924	CoV3	COVID	Critical	8	4	T2	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328925	CoV3	COVID	Critical	8	5	T3	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328917	CoV1	COVID	Critical	8	6	T2	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328919	CoV1	COVID	Critical	8	10	T3	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328926	CoV3	COVID	Critical	8	15	T4	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328920	CoV1	COVID	Critical	8	16	T4	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328929	CoV15	COVID	Mild	2	1	T1	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328940	CoV15	COVID	Mild	2	5	T2	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328951	CoV15	COVID	Mild	2	7	T3	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328889	CoV15	COVID	Mild	2	8	T4	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328890	CoV15	COVID	Mild	2	10	T5	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328896	CoV13	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA624223
+SRR12328907	CoV14	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328921	CoV2	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328931	CoV5	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328938	CoV7	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328943	CoV8	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328949	CoV9	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA624223
+SRR12328950	CoV10	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328957	CoV12	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328944	CoV8	COVID	Moderate	4	2	T2	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328958	CoV12	COVID	Moderate	4	2	T2	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328918	CoV14	COVID	Moderate	4	3	T2	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328922	CoV2	COVID	Moderate	4	3	T2	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328939	CoV7	COVID	Moderate	4	3	T2	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328952	CoV10	COVID	Moderate	4	3	T2	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328886	CoV12	COVID	Moderate	4	4	T3	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328932	CoV5	COVID	Moderate	4	4	T2	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328945	CoV8	COVID	Moderate	4	4	T3	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328946	CoV8	COVID	Moderate	4	5	T4	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328887	CoV12	COVID	Moderate	4	6	T4	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328933	CoV5	COVID	Moderate	4	6	T3	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328953	CoV10	COVID	Moderate	4	6	T3	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328947	CoV8	COVID	Moderate	4	7	T5	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328888	CoV12	COVID	Moderate	4	8	T5	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328941	CoV7	COVID	Moderate	4	8	T3	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328891	CoV12	COVID	Moderate	4	9	T6	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328934	CoV5	COVID	Moderate	4	10	T4	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328942	CoV7	COVID	Moderate	4	10	T4	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328948	CoV8	COVID	Moderate	4	10	T6	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328954	CoV10	COVID	Moderate	4	11	T4	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328892	CoV12	COVID	Moderate	4	12	T7	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328935	CoV5	COVID	Moderate	4	12	T5	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328927	CoV4	COVID	Severe	6	1	T1	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328936	CoV6	COVID	Severe	6	1	T1	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328955	CoV11	COVID	Severe	6	1	T1	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328937	CoV6	COVID	Severe	6	2	T2	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328928	CoV4	COVID	Severe	6	5	T2	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328956	CoV11	COVID	Severe	6	6	T2	Yes	"Hong Kong, China"	PRJNA624223
+SRR12328930	CoV4	COVID	Severe	6	23	T3	Yes	"Hong Kong, China"	PRJNA624223
+SRR13077654	dummy025	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077663	dummy078	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077664	dummy077	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077665	dummy024	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077666	dummy076	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077667	dummy075	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077668	dummy074	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077669	dummy073	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077670	dummy072	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077671	dummy071	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077672	dummy070	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077673	dummy069	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077674	dummy068	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077675	dummy067	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077676	dummy023	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077677	dummy066	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077678	dummy065	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077679	dummy064	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077680	dummy063	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077681	dummy062	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077685	dummy006	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077696	dummy005	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077707	dummy004	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077708	dummy030	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077709	dummy029	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077712	dummy014	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077724	dummy013	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077735	dummy012	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077755	dummy010	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077766	dummy009	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077777	dummy008	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077788	dummy007	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077797	dummy028	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077808	dummy027	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077819	dummy026	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077827	dummy061	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077829	dummy060	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077830	dummy059	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077831	dummy058	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077832	dummy057	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077833	dummy022	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077834	dummy056	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077835	dummy055	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077836	dummy054	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077837	dummy053	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077838	dummy052	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077839	dummy051	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077840	dummy050	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077841	dummy049	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077842	dummy048	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077843	dummy047	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077844	dummy021	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077845	dummy003	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077846	dummy046	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077847	dummy045	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077848	dummy044	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077849	dummy043	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077850	dummy042	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077851	dummy041	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077852	dummy040	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077853	dummy039	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077854	dummy038	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077855	dummy037	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077856	dummy020	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077857	dummy036	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077858	dummy035	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077859	dummy034	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077860	dummy033	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077861	dummy032	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077862	dummy031	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077867	dummy019	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077878	dummy018	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077889	dummy017	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077900	dummy016	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077911	dummy015	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077923	dummy011	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077924	dummy002	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077925	dummy001	Control	Control	0	Control	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077751	dummy084	COVID	Critical	8	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077763	dummy082	COVID	Critical	8	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077868	dummy106	COVID	Critical	8	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077866	dummy106	COVID	Critical	8	4	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077865	dummy106	COVID	Critical	8	5	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077741	dummy084	COVID	Critical	8	6	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077729	dummy084	COVID	Critical	8	10	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077864	dummy106	COVID	Critical	8	15	T4	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077717	dummy084	COVID	Critical	8	16	T4	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077702	dummy106	COVID	Critical	8	36	T5	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077689	dummy124	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077690	dummy176	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077695	dummy107	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077697	dummy101	COVID	Mild	2	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077706	dummy150	COVID	Mild	2	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077726	dummy081	COVID	Mild	2	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077737	dummy125	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077745	dummy168	COVID	Mild	2	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077752	dummy158	COVID	Mild	2	1	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077757	dummy158	COVID	Mild	2	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077760	dummy142	COVID	Mild	2	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077762	dummy141	COVID	Mild	2	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077764	dummy159	COVID	Mild	2	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077767	dummy110	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077768	dummy149	COVID	Mild	2	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077769	dummy179	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077771	dummy129	COVID	Mild	2	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077772	dummy148	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077773	dummy140	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077783	dummy139	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077785	dummy104	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077786	dummy143	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077787	dummy147	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077790	dummy121	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077794	dummy130	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077795	dummy171	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077816	dummy177	COVID	Mild	2	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077871	dummy161	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077874	dummy157	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077881	dummy160	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077884	dummy153	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077887	dummy169	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077888	dummy154	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077890	dummy155	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077891	dummy164	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077892	dummy112	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077901	dummy146	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077902	dummy162	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077903	dummy135	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077905	dummy114	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077906	dummy132	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077908	dummy122	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077910	dummy113	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077912	dummy167	COVID	Mild	2	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077913	dummy165	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077915	dummy111	COVID	Mild	2	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077920	dummy108	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077921	dummy109	COVID	Mild	2	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077683	dummy129	COVID	Mild	2	2	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077753	dummy168	COVID	Mild	2	2	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077734	dummy167	COVID	Mild	2	3	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077759	dummy150	COVID	Mild	2	3	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077723	dummy150	COVID	Mild	2	4	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077746	dummy158	COVID	Mild	2	4	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077749	dummy111	COVID	Mild	2	4	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077738	dummy081	COVID	Mild	2	5	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077770	dummy141	COVID	Mild	2	5	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077720	dummy150	COVID	Mild	2	6	T4	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077742	dummy168	COVID	Mild	2	6	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077765	dummy142	COVID	Mild	2	6	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077736	dummy111	COVID	Mild	2	7	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077792	dummy101	COVID	Mild	2	7	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077725	dummy150	COVID	Mild	2	8	T5	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077882	dummy149	COVID	Mild	2	8	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077732	dummy167	COVID	Mild	2	10	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077740	dummy150	COVID	Mild	2	10	T6	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077922	dummy081	COVID	Mild	2	12	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077748	dummy159	COVID	Mild	2	16	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077705	dummy177	COVID	Mild	2	20	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077658	dummy085	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077682	dummy119	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077684	dummy091	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077688	dummy126	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077692	dummy133	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077693	dummy163	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077713	dummy123	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077721	dummy090	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077731	dummy089	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077744	dummy166	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077750	dummy099	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077761	dummy175	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077776	dummy134	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077778	dummy094	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077779	dummy079	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077780	dummy144	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077781	dummy138	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077784	dummy086	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077789	dummy136	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077793	dummy080	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077800	dummy137	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077807	dummy103	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077815	dummy116	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077823	dummy128	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077828	dummy098	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077870	dummy102	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077872	dummy096	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077873	dummy118	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077877	dummy100	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077879	dummy127	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077883	dummy151	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077885	dummy172	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077886	dummy105	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077893	dummy156	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077894	dummy120	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077895	dummy097	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077896	dummy131	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077897	dummy092	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077898	dummy145	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077899	dummy117	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077904	dummy173	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077907	dummy170	COVID	Moderate	4	1	T1	No	"Hong Kong, China"	PRJNA650244
+SRR13077914	dummy178	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077918	dummy093	COVID	Moderate	4	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077806	dummy103	COVID	Moderate	4	2	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077822	dummy128	COVID	Moderate	4	2	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077716	dummy093	COVID	Moderate	4	3	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077719	dummy090	COVID	Moderate	4	3	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077799	dummy137	COVID	Moderate	4	3	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077805	dummy103	COVID	Moderate	4	3	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077814	dummy116	COVID	Moderate	4	3	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077826	dummy098	COVID	Moderate	4	3	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077869	dummy102	COVID	Moderate	4	3	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077657	dummy085	COVID	Moderate	4	4	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077687	dummy127	COVID	Moderate	4	4	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077821	dummy128	COVID	Moderate	4	4	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077876	dummy086	COVID	Moderate	4	4	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077691	dummy126	COVID	Moderate	4	5	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077711	dummy123	COVID	Moderate	4	5	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077743	dummy090	COVID	Moderate	4	5	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077818	dummy128	COVID	Moderate	4	5	T4	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077880	dummy136	COVID	Moderate	4	5	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077656	dummy085	COVID	Moderate	4	6	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077733	dummy178	COVID	Moderate	4	6	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077774	dummy134	COVID	Moderate	4	6	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077775	dummy093	COVID	Moderate	4	6	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077804	dummy103	COVID	Moderate	4	6	T4	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077813	dummy116	COVID	Moderate	4	6	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077710	dummy123	COVID	Moderate	4	7	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077754	dummy090	COVID	Moderate	4	7	T4	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077798	dummy152	COVID	Moderate	4	7	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077820	dummy128	COVID	Moderate	4	7	T5	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077875	dummy133	COVID	Moderate	4	7	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077747	dummy089	COVID	Moderate	4	8	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077791	dummy151	COVID	Moderate	4	8	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077803	dummy103	COVID	Moderate	4	8	T5	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077694	dummy144	COVID	Moderate	4	9	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077796	dummy152	COVID	Moderate	4	9	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077802	dummy103	COVID	Moderate	4	9	T6	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077825	dummy098	COVID	Moderate	4	9	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077917	dummy089	COVID	Moderate	4	9	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077655	dummy085	COVID	Moderate	4	10	T4	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077699	dummy093	COVID	Moderate	4	10	T4	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077811	dummy116	COVID	Moderate	4	10	T4	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077817	dummy128	COVID	Moderate	4	10	T6	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077700	dummy178	COVID	Moderate	4	11	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077801	dummy103	COVID	Moderate	4	11	T7	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077812	dummy116	COVID	Moderate	4	11	T5	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077824	dummy098	COVID	Moderate	4	11	T4	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077703	dummy123	COVID	Moderate	4	12	T4	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077704	dummy152	COVID	Moderate	4	12	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077863	dummy085	COVID	Moderate	4	12	T5	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077722	dummy152	COVID	Moderate	4	14	T4	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077728	dummy116	COVID	Moderate	4	26	T6	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077718	dummy085	COVID	Moderate	4	28	T6	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077758	dummy123	COVID	Moderate	4	30	T5	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077686	dummy128	COVID	Moderate	4	32	T7	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077782	dummy098	COVID	Moderate	4	38	T5	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077653	dummy087	COVID	Severe	6	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077662	dummy088	COVID	Severe	6	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077714	dummy083	COVID	Severe	6	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077756	dummy174	COVID	Severe	6	1	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077652	dummy087	COVID	Severe	6	2	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077810	dummy095	COVID	Severe	6	2	T1	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077715	dummy083	COVID	Severe	6	3	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077739	dummy174	COVID	Severe	6	4	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077661	dummy088	COVID	Severe	6	5	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077730	dummy174	COVID	Severe	6	6	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077919	dummy083	COVID	Severe	6	6	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077809	dummy095	COVID	Severe	6	7	T2	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077701	dummy083	COVID	Severe	6	9	T4	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077727	dummy083	COVID	Severe	6	13	T5	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077916	dummy095	COVID	Severe	6	14	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077659	dummy088	COVID	Severe	6	23	T4	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077660	dummy088	COVID	Severe	6	23	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077909	dummy087	COVID	Severe	6	25	T3	Yes	"Hong Kong, China"	PRJNA650244
+SRR13077698	dummy095	COVID	Severe	6	32	T4	Yes	"Hong Kong, China"	PRJNA650244
+MSSM_031_V1	MSSM_031	COVID	Fatal	10	16	T1	No	"New York, US"	PRJNA660883
+MSSM_025_V8	MSSM_025	COVID	Fatal	10	21	T1	No	"New York, US"	PRJNA660883
+MSSM_014_V8	MSSM_014	COVID	Fatal	10	37	T1	No	"New York, US"	PRJNA660883
+MSSM_029_V1	MSSM_029	COVID	Fatal	10	40	T1	No	"New York, US"	PRJNA660883
+MSSM_009_V1	MSSM_009	COVID	Mild	2	6	T1	Yes	"New York, US"	PRJNA660883
+MSSM_006_V1	MSSM_006	COVID	Mild	2	7	T1	No	"New York, US"	PRJNA660883
+MSSM_009_V8	MSSM_009	COVID	Mild	2	17	T2	Yes	"New York, US"	PRJNA660883
+MSSM_038_V1	MSSM_038	COVID	Mild	2	18	T1	No	"New York, US"	PRJNA660883
+MSSM_002_V1	MSSM_002	COVID	Mild	2	29	T1	No	"New York, US"	PRJNA660883
+MSSM_001_V1	MSSM_001	COVID	Mild	2	38	T1	No	"New York, US"	PRJNA660883
+MSSM_016_V1	MSSM_016	COVID	Moderate	4	6	T1	No	"New York, US"	PRJNA660883
+MSSM_013_V1	MSSM_013	COVID	Moderate	4	7	T1	No	"New York, US"	PRJNA660883
+MSSM_035_V1	MSSM_035	COVID	Moderate	4	7	T1	No	"New York, US"	PRJNA660883
+MSSM_042_V1	MSSM_042	COVID	Moderate	4	8	T1	No	"New York, US"	PRJNA660883
+MSSM_017_V1	MSSM_017	COVID	Moderate	4	9	T1	No	"New York, US"	PRJNA660883
+MSSM_028_V1	MSSM_028	COVID	Moderate	4	12	T1	No	"New York, US"	PRJNA660883
+MSSM_003_V1	MSSM_003	COVID	Moderate	4	12	T1	Yes	"New York, US"	PRJNA660883
+MSSM_021_V1	MSSM_021	COVID	Moderate	4	12	T1	No	"New York, US"	PRJNA660883
+MSSM_039_V1	MSSM_039	COVID	Moderate	4	14	T1	No	"New York, US"	PRJNA660883
+MSSM_027_V1	MSSM_027	COVID	Moderate	4	16	T1	No	"New York, US"	PRJNA660883
+MSSM_003_V8	MSSM_003	COVID	Moderate	4	19	T2	Yes	"New York, US"	PRJNA660883
+MSSM_023_V1	MSSM_023	COVID	Moderate	4	20	T1	No	"New York, US"	PRJNA660883
+MSSM_034_V1	MSSM_034	COVID	Moderate	4	20	T1	No	"New York, US"	PRJNA660883
+MSSM_026_V1	MSSM_026	COVID	Severe	6	6	T1	No	"New York, US"	PRJNA660883
+MSSM_007_V1	MSSM_007	COVID	Severe	6	7	T1	No	"New York, US"	PRJNA660883
+MSSM_004_V1	MSSM_004	COVID	Severe	6	10	T1	No	"New York, US"	PRJNA660883
+MSSM_037_V1	MSSM_037	COVID	Severe	6	10	T1	No	"New York, US"	PRJNA660883
+MSSM_012_V1	MSSM_012	COVID	Severe	6	14	T1	Yes	"New York, US"	PRJNA660883
+MSSM_036_V1	MSSM_036	COVID	Severe	6	18	T1	Yes	"New York, US"	PRJNA660883
+MSSM_043_V1	MSSM_043	COVID	Severe	6	20	T1	Yes	"New York, US"	PRJNA660883
+MSSM_012_V8	MSSM_012	COVID	Severe	6	21	T2	Yes	"New York, US"	PRJNA660883
+MSSM_043_V8	MSSM_043	COVID	Severe	6	25	T2	Yes	"New York, US"	PRJNA660883
+MSSM_036_V8	MSSM_036	COVID	Severe	6	28	T2	Yes	"New York, US"	PRJNA660883
+MSSM_010_V1	MSSM_010	COVID	Severe	6	36	T1	No	"New York, US"	PRJNA660883
+MSSM_005_V1	MSSM_005	COVID	Severe	6	38	T1	No	"New York, US"	PRJNA660883
+MSSM_044_V1	MSSM_044	COVID	Severe	6	39	T1	No	"New York, US"	PRJNA660883
+SRR16646005	Ctrl_36	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646006	Ctrl_35	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646007	Ctrl_34	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646008	Ctrl_33	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646009	Ctrl_32	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646010	Ctrl_3	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646011	Ctrl_4	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646012	Ctrl_5	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646013	Ctrl_6	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646015	Ctrl_30	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646016	Ctrl_29	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646017	Ctrl_28	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646018	Ctrl_27	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646019	Ctrl_25	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646020	Ctrl_24	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646021	Ctrl_46	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646022	Ctrl_13	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646023	Ctrl_14	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646024	Ctrl_15	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646025	Ctrl_16	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646026	Ctrl_23	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646027	Ctrl_41	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646028	Ctrl_40	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646029	Ctrl_22	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646035	Ctrl_1	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646037	Ctrl_2	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646038	Ctrl_31	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646039	Ctrl_7	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646040	Ctrl_8	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646041	Ctrl_9	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646042	Ctrl_10	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646043	Ctrl_26	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646044	Ctrl_11	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646046	Ctrl_12	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646047	Ctrl_17	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646048	Ctrl_18	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646049	Ctrl_21	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646050	Ctrl_20	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646051	Ctrl_19	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646180	Ctrl_70	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646181	Ctrl_69	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646182	Ctrl_68	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646183	Ctrl_67	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646184	Ctrl_66	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646185	Ctrl_65	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646186	Ctrl_64	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646187	Ctrl_63	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646188	Ctrl_62	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646189	Ctrl_38	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646190	Ctrl_37	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646191	Ctrl_61	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646192	Ctrl_60	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646193	Ctrl_59	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646194	Ctrl_58	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646195	Ctrl_57	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646196	Ctrl_56	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646197	Ctrl_55	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646198	Ctrl_54	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646199	Ctrl_53	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646200	Ctrl_52	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646202	Ctrl_51	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646203	Ctrl_50	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646204	Ctrl_49	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646205	Ctrl_48	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646206	Ctrl_47	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646207	Ctrl_45	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646208	Ctrl_44	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646209	Ctrl_43	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646210	Ctrl_42	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646212	Ctrl_39	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646030	COV_8	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646032	COV_64	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646033	COV_65	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646034	COV_66	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646036	COV_7	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646053	COV_63	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646054	COV_62	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646055	COV_61	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646058	COV_60	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646061	COV_59	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646063	COV_58	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646064	COV_57	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646065	COV_56	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646068	COV_6	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646069	COV_55	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646070	COV_54	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646072	COV_53	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646074	COV_52	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646075	COV_51	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646078	COV_50	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646079	COV_44	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646080	COV_47	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646084	COV_46	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646085	COV_45	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646088	COV_4	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646089	COV_43	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646090	COV_5	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646091	COV_42	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646092	COV_41	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646093	COV_40	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646094	COV_39	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646095	COV_38	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646096	COV_37	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646097	COV_36	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646098	COV_35	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646099	COV_34	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646102	COV_48	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646103	COV_32	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646106	COV_31	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646107	COV_30	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646109	COV_29	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646113	COV_28	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646115	COV_27	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646117	COV_26	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646118	COV_25	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646124	COV_33	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646125	COV_24	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646127	COV_23	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646129	COV_22	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646133	COV_12	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646134	COV_11	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646137	COV_21	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646138	COV_49	COVID	COVID	NA	2	T1	No	"Hong Kong, China"	PRJNA689961
+SRR16646141	COV_1	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646145	COV_20	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646146	COV_3	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646147	COV_19	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646149	COV_18	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646152	COV_17	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646153	COV_16	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646156	COV_15	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646158	COV_2	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646159	COV_14	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646164	COV_13	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646177	COV_10	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646211	COV_9	COVID	COVID	NA	2	T1	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646081	COV_47	COVID	COVID	NA	3	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646132	COV_21	COVID	COVID	NA	4	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646056	COV_60	COVID	COVID	NA	5	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646071	COV_53	COVID	COVID	NA	5	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646082	COV_46	COVID	COVID	NA	5	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646110	COV_21	COVID	COVID	NA	5	T3	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646121	COV_25	COVID	COVID	NA	5	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646087	COV_28	COVID	COVID	NA	6	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646142	COV_20	COVID	COVID	NA	6	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646014	COV_9	COVID	COVID	NA	7	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646031	COV_63	COVID	COVID	NA	7	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646059	COV_59	COVID	COVID	NA	7	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646066	COV_55	COVID	COVID	NA	7	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646083	COV_46	COVID	COVID	NA	7	T3	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646161	COV_21	COVID	COVID	NA	7	T4	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646076	COV_51	COVID	COVID	NA	8	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646111	COV_28	COVID	COVID	NA	8	T3	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646119	COV_25	COVID	COVID	NA	8	T3	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646052	COV_63	COVID	COVID	NA	9	T3	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646077	COV_44	COVID	COVID	NA	9	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646104	COV_32	COVID	COVID	NA	9	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646155	COV_24	COVID	COVID	NA	9	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646162	COV_21	COVID	COVID	NA	9	T5	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646167	COV_9	COVID	COVID	NA	10	T3	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646131	COV_21	COVID	COVID	NA	11	T6	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646067	COV_55	COVID	COVID	NA	12	T3	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646122	COV_24	COVID	COVID	NA	15	T3	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646144	COV_26	COVID	COVID	NA	16	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646060	COV_59	COVID	COVID	NA	17	T3	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646062	COV_58	COVID	COVID	NA	17	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646163	COV_13	COVID	COVID	NA	21	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646140	COV_1	COVID	COVID	NA	22	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646086	COV_29	COVID	COVID	NA	24	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646073	COV_52	COVID	COVID	NA	26	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646154	COV_16	COVID	COVID	NA	32	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646130	COV_3	COVID	COVID	NA	34	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646139	COV_6	COVID	COVID	NA	35	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646108	COV_30	COVID	COVID	NA	36	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646165	COV_12	COVID	COVID	NA	36	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646148	COV_18	COVID	COVID	NA	38	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646057	COV_7	COVID	COVID	NA	39	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646151	COV_17	COVID	COVID	NA	39	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646128	COV_22	COVID	COVID	NA	41	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646166	COV_21	COVID	COVID	NA	42	T7	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646136	COV_10	COVID	COVID	NA	43	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646201	COV_9	COVID	COVID	NA	43	T4	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646116	COV_26	COVID	COVID	NA	44	T3	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646143	COV_20	COVID	COVID	NA	48	T3	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646114	COV_27	COVID	COVID	NA	49	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646123	COV_24	COVID	COVID	NA	56	T4	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646160	COV_14	COVID	COVID	NA	56	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646178	COV_2	COVID	COVID	NA	56	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646100	COV_33	COVID	COVID	NA	58	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646120	COV_4	COVID	COVID	NA	58	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646150	COV_25	COVID	COVID	NA	58	T4	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646105	COV_31	COVID	COVID	NA	59	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646135	COV_11	COVID	COVID	NA	59	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646126	COV_23	COVID	COVID	NA	60	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646112	COV_28	COVID	COVID	NA	61	T4	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646045	COV_8	COVID	COVID	NA	62	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646172	COV_19	COVID	COVID	NA	63	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646101	COV_5	COVID	COVID	NA	65	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR16646157	COV_15	COVID	COVID	NA	93	T2	Yes	"Hong Kong, China"	PRJNA689961
+SRR18440663	19_10	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440674	19_9	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440685	19_8	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440696	19_7	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440707	19_6	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440722	19_14	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440733	19_13	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440744	19_12	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440754	19_5	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440755	19_40	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440756	19_39	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440757	19_38	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440758	19_37	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440759	19_36	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440760	19_35	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440761	19_34	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440762	19_33	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440763	19_32	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440765	19_4	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440766	19_30	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440767	19_29	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440768	19_28	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440769	19_27	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440770	19_26	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440771	19_25	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440772	19_24	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440773	19_23	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440774	19_22	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440775	19_21	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440776	19_3	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440777	19_20	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440778	19_19	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440779	19_18	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440780	19_17	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440781	19_16	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440783	19_15	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440791	19_11	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440792	19_2	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440793	19_1	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807515	19_2_24	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807516	19_2_26	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807517	19_2_23	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807518	19_2_22	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807519	19_2_21	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807520	19_2_20	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807521	19_2_19	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807522	19_2_18	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807523	19_2_17	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807524	19_2_16	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807525	19_2_15	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807527	19_2_14	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807528	19_2_13	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807529	19_2_12	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807530	19_2_11	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807531	19_2_10	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807532	19_2_9	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807533	19_2_8	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807534	19_2_7	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807535	19_2_6	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807536	19_2_5	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807538	19_2_4	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807539	19_2_3	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807540	19_2_2	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807541	19_2_1	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807580	19_2_25	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807617	19_2_28	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18807618	19_2_27	Control	Control	NA	Control	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440718	34	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440719	33	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440720	32	COVID	COVID	NA	1	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440721	31	COVID	COVID	NA	1	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440723	30	COVID	COVID	NA	1	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440724	29	COVID	COVID	NA	1	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440725	28	COVID	COVID	NA	1	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440726	27	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440727	26	COVID	COVID	NA	1	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440728	25	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440729	24	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440730	23	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440731	22	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440732	21	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440734	19	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440735	18	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440736	17	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440737	15	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440738	14	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440739	13	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440740	12	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440741	11	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440742	10	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440743	9	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440745	8	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440746	7	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440747	6	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440748	5	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440749	4	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440750	3	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440751	2	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440752	1	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440782	41	COVID	COVID	NA	1	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440784	40	COVID	COVID	NA	1	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440785	39	COVID	COVID	NA	1	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440786	38	COVID	COVID	NA	1	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440787	37	COVID	COVID	NA	1	T1	No	"Hong Kong, China"	PRJNA714459
+SRR18440788	36	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440789	35	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807537	2_9	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807548	2_8	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807559	2_7	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807570	2_6	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807582	2_2	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807583	2_1	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807585	2_5	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807596	2_4	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807607	2_3	COVID	COVID	NA	1	T1	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440653	44	COVID	COVID	NA	31	T2	No	"Hong Kong, China"	PRJNA714459
+SRR18440654	43	COVID	COVID	NA	31	T2	No	"Hong Kong, China"	PRJNA714459
+SRR18440655	42	COVID	COVID	NA	31	T2	No	"Hong Kong, China"	PRJNA714459
+SRR18440656	36	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440657	35	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440658	34	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440659	33	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440660	27	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440661	25	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440662	24	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440664	23	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440665	21	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440666	20	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440667	19	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440668	18	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440669	17	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440670	16	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440671	15	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440672	14	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440673	13	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440675	12	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440676	11	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440677	10	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440678	9	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440679	8	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440680	7	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440681	6	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440682	5	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440683	4	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440684	3	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440686	2	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440687	1	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440753	46	COVID	COVID	NA	31	T2	No	"Hong Kong, China"	PRJNA714459
+SRR18440790	45	COVID	COVID	NA	31	T2	No	"Hong Kong, China"	PRJNA714459
+SRR18807526	2_1	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807581	2_2	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807587	2_30	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807588	2_29	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807589	2_28	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807590	2_27	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807591	2_26	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807592	2_25	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807593	2_24	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807594	2_23	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807595	2_22	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807597	2_21	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807598	2_20	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807599	2_19	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807600	2_18	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807601	2_17	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807602	2_16	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807603	2_15	COVID	COVID	NA	31	T2	No	"Hong Kong, China"	PRJNA714459
+SRR18807604	2_14	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807605	2_13	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807606	2_12	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807608	2_11	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807609	2_10	COVID	COVID	NA	31	T2	No	"Hong Kong, China"	PRJNA714459
+SRR18807610	2_9	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807611	2_8	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807612	2_7	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807613	2_6	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807614	2_5	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807615	2_4	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807616	2_3	COVID	COVID	NA	31	T2	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440688	24	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440689	23	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440690	22	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440691	21	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440692	20	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440693	19	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440694	18	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440695	17	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440697	16	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440698	15	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440699	14	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440700	13	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440701	12	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440702	11	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440703	10	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440704	9	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440705	8	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440706	7	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440708	6	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440709	5	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440710	4	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440711	3	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440712	2	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440713	1	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807547	2_44	COVID	COVID	NA	181	T3	No	"Hong Kong, China"	PRJNA714459
+SRR18807549	2_43	COVID	COVID	NA	181	T3	No	"Hong Kong, China"	PRJNA714459
+SRR18807550	2_42	COVID	COVID	NA	181	T3	No	"Hong Kong, China"	PRJNA714459
+SRR18807551	2_40	COVID	COVID	NA	181	T3	No	"Hong Kong, China"	PRJNA714459
+SRR18807552	2_39	COVID	COVID	NA	181	T3	No	"Hong Kong, China"	PRJNA714459
+SRR18807553	2_38	COVID	COVID	NA	181	T3	No	"Hong Kong, China"	PRJNA714459
+SRR18807554	2_37	COVID	COVID	NA	181	T3	No	"Hong Kong, China"	PRJNA714459
+SRR18807555	2_36	COVID	COVID	NA	181	T3	No	"Hong Kong, China"	PRJNA714459
+SRR18807556	2_35	COVID	COVID	NA	181	T3	No	"Hong Kong, China"	PRJNA714459
+SRR18807557	2_34	COVID	COVID	NA	181	T3	No	"Hong Kong, China"	PRJNA714459
+SRR18807558	2_33	COVID	COVID	NA	181	T3	No	"Hong Kong, China"	PRJNA714459
+SRR18807560	2_31	COVID	COVID	NA	181	T3	No	"Hong Kong, China"	PRJNA714459
+SRR18807561	2_30	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807562	2_29	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807563	2_28	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807564	2_27	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807565	2_26	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807566	2_25	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807567	2_24	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807568	2_23	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807569	2_22	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807571	2_21	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807572	2_20	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807573	2_19	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807574	2_18	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807575	2_17	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807576	2_16	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807578	2_14	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807579	2_13	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807584	2_12	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807586	2_11	COVID	COVID	NA	181	T3	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440714	4	COVID	COVID	NA	271	T4	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440715	3	COVID	COVID	NA	271	T4	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440716	2	COVID	COVID	NA	271	T4	Yes	"Hong Kong, China"	PRJNA714459
+SRR18440717	1	COVID	COVID	NA	271	T4	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807542	2_6	COVID	COVID	NA	271	T4	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807543	2_4	COVID	COVID	NA	271	T4	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807544	2_3	COVID	COVID	NA	271	T4	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807545	2_2	COVID	COVID	NA	271	T4	Yes	"Hong Kong, China"	PRJNA714459
+SRR18807546	2_1	COVID	COVID	NA	271	T4	Yes	"Hong Kong, China"	PRJNA714459
+SRR14883795	Health13	Control	Control	0	Control	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883796	Health12	Control	Control	0	Control	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883797	Health11	Control	Control	0	Control	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883799	Health10	Control	Control	0	Control	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883800	Health9	Control	Control	0	Control	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883801	Health8	Control	Control	0	Control	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883802	Health7	Control	Control	0	Control	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883803	Health6	Control	Control	0	Control	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883804	Health5	Control	Control	0	Control	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883805	Health4	Control	Control	0	Control	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883806	Health3	Control	Control	0	Control	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883807	Health2	Control	Control	0	Control	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883808	Health1	Control	Control	0	Control	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883770	Patient9	COVID	Mild	2	1	T1	Yes	"Lanzhou, China"	PRJNA740067
+SRR14883771	Patient8	COVID	Mild	2	1	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883809	Patient3	COVID	Mild	2	1	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883816	Patient10	COVID	Mild	2	1	T1	Yes	"Lanzhou, China"	PRJNA740067
+SRR14883817	Patient13	COVID	Mild	2	1	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883818	Patient12	COVID	Mild	2	1	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883819	Patient11	COVID	Mild	2	1	T1	Yes	"Lanzhou, China"	PRJNA740067
+SRR14883820	Patient2	COVID	Mild	2	1	T1	Yes	"Lanzhou, China"	PRJNA740067
+SRR14883811	Patient10	COVID	Mild	2	4	T2	Yes	"Lanzhou, China"	PRJNA740067
+SRR14883812	Patient9	COVID	Mild	2	6	T2	Yes	"Lanzhou, China"	PRJNA740067
+SRR14883769	Patient10	COVID	Mild	2	8	T3	Yes	"Lanzhou, China"	PRJNA740067
+SRR14883814	Patient2	COVID	Mild	2	11	T2	Yes	"Lanzhou, China"	PRJNA740067
+SRR14883810	Patient11	COVID	Mild	2	21	T2	Yes	"Lanzhou, China"	PRJNA740067
+SRR14883776	Patient6	COVID	Moderate	4	1	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883787	Patient5	COVID	Moderate	4	1	T1	Yes	"Lanzhou, China"	PRJNA740067
+SRR14883798	Patient4	COVID	Moderate	4	1	T1	No	"Lanzhou, China"	PRJNA740067
+SRR14883821	Patient1	COVID	Moderate	4	1	T1	Yes	"Lanzhou, China"	PRJNA740067
+SRR14883815	Patient1	COVID	Moderate	4	16	T2	Yes	"Lanzhou, China"	PRJNA740067
+SRR14883813	Patient5	COVID	Moderate	4	29	T2	Yes	"Lanzhou, China"	PRJNA740067
+SRR14883772	Patient7	COVID	Severe	6	1	T1	No	"Lanzhou, China"	PRJNA740067
