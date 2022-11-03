@@ -32,18 +32,15 @@ SPINGO: database/RDP_11.2.species.zip, taxonomy.zip
 The example microbiome data PRJNA740067 (shotgun metagenome) and PRJNA684070 (16S rRNA gene amplicon) can be downloaded from NCBI or EBI.
 
 # Workflow
-#Bioinformatic anlysis: bioinformatics_statistics/bioinformatics.sh, kraken2.sh
+1. Bioinformatic anlysis pipeline (details for softwares and parameters) in the bioinformatics_statistics folder: bioinformatics.sh, kraken2.sh.
 
 Shotgun metagenomes were quality-filtered using TrimGalore and further filtered to remove human and PhiX sequences using Kraken2. The decontaminated sequences were reprocessed using MetaPhlAn3 for species-level taxonomic profiling and HUMAnN3 for functional profiling that were further regrouped to KEGG Orthologs (KOs), Enzyme Commission number (EC number), MetaCyc pathway (Pathway), and carbohydrate active enzymes (CAZymes). Besides, the decontaminated sequences were reprocessed using Kraken2 for species-level taxonomic profiling of 5 microbial kingdoms against the constructed database using all NCBI genomes from five kingdoms (i.e., bacteria, archaea, fungi, viruses, and parasites).
 
 16S sequences were also quality-filtered using TrimGalore and then reprocessed using SPINGO32 for taxonomic profiling.
 
-#Statistics: 
+2. Statistics and visualization: 
 
-R codes: bioinformatics_statistics/NMDS.R, PERMANOVA.R, dysbiosis.R, association_heatmap.R, RandomForest_COVIDSeverityIndex.R
+R codes for data analysis and visualisation in the bioinformatics_statistics folder: NMDS.R, PERMANOVA.R, dysbiosis.R, association_heatmap.R, RandomForest_COVIDSeverityIndex.R
 
 R Package Dependencies: ape, ggplot2, vegan, BiodiversityR, MASS, pROC, randomForest, ggplot2
-
-
-
 
